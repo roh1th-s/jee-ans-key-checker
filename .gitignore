@@ -1,0 +1,6 @@
+.venv
+
+*.exe
+*.html
+
+results.json
